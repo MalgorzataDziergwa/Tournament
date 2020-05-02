@@ -17,8 +17,8 @@ namespace TrackerUI
             InitializeComponent();
         }
 
-        //private void createMemberButton_Click(object sender, EventArgs e)
-        //{
+        private void createMemberButton_Click(object sender, EventArgs e)
+        {
         //   //if (ValidateForm())
         //   // {
         //   //     PersonModel p = new PersonModel();
@@ -55,6 +55,6 @@ namespace TrackerUI
         //        return false;
         //    }
         //    return true;
-        //}
+        }
     }
 }
