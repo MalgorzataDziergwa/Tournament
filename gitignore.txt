@@ -1,0 +1,5 @@
+.vs
+TrackerLibrary/obj
+TrackerUI/obj
+TrackerLibrary/bin
+TrackerUI/bin
